@@ -1,0 +1,33 @@
+.details-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.col{
+    max-width: 400px;
+    margin: 15px;
+    height: auto;
+    width: 80%;
+}
+.details-img{
+    border-radius: 10px;
+    object-fit: cover;
+}
+.title-detail{
+    margin-top: 0;   
+    text-align: center; 
+}
+.title-detail b{
+    color: var(--red);
+    margin-left: 25px;
+}
+.details-text{
+    font-size: 1.5rem;
+}
+.icon-container{
+    margin-left: 10rem;
+}
+.icon-back{
+    color: white;
+    font-size: 30px;
+}
