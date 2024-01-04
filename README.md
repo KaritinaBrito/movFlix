@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a target="_blank"  href="https://dashing-sherbet-4d9814.netlify.app/">
+    <a target="_blank"  href="https://unrivaled-cat-0184f5.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -17,7 +17,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
